@@ -1,3 +1,4 @@
+// Họ và tên: Lưu Tuấn Huê - MSSV: 25810021
 fun tinhDienTich (chieuDai: Double, chieuRong : Double) : Double {
     return (chieuDai * chieuRong)
 }

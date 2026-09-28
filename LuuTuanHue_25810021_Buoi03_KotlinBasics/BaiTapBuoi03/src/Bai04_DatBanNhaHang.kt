@@ -1,3 +1,4 @@
+// Họ và tên: Lưu Tuấn Huê - MSSV: 25810021
 fun datBan(tenKH: String, soLuong: Int, loaiBan: String = "ban thuong" ){
     println("KH: $tenKH, SL: $soLuong, Loai: $loaiBan")
 }

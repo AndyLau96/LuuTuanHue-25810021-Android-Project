@@ -1,3 +1,4 @@
+// Họ và tên: Lưu Tuấn Huê - MSSV: 25810021
 fun ghiNhatKy1(moTa: String) : Unit {
     println("$moTa")
 }

@@ -4,10 +4,9 @@ fun main() {
     val loaiVe : String = if (tuoi < 18) {
         "Ve tre em"
     } else if (tuoi < 60) {
-        "Vé người lớn"
+        "Ve nguoi lon"
     } else {
-        "Vé cao tuổi"
+        "Ve cao tuoi"
     }
-
     println("Khach hang $tuoi tuoi -> Loai ve: $loaiVe")
 }
